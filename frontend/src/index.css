@@ -1,0 +1,50 @@
+body { 
+    font-family: Arial, sans-serif; 
+    margin:0; 
+}
+.container { 
+    max-width: 1000px; 
+    margin: 20px auto; 
+    padding: 0 16px; 
+}
+.topbar { 
+    background:#111; 
+    color:#fff; 
+    padding:12px 0; 
+}
+.topbar .container { 
+    display:flex; 
+    justify-content:space-between; 
+    align-items:center; 
+}
+.topbar a { 
+    color:#fff; 
+    margin-right:12px; 
+    text-decoration:none; 
+}
+.card { 
+    background:#fff; 
+    padding:12px; 
+    border:1px solid #eee; 
+    margin-bottom:12px; 
+}
+.grid { 
+    display:flex; 
+    gap:12px; 
+}
+.list .card { 
+    display:flex; 
+    justify-content:space-between; 
+    align-items:center; 
+}
+.form-inline input, .form-inline select { 
+    margin-right:8px; 
+    padding:6px; 
+}
+button { 
+    padding:6px 10px; 
+}
+.error { 
+    color: red; 
+    margin-bottom: 8px; 
+}
