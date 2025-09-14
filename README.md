@@ -33,11 +33,11 @@ It allows users to register/login, manage customers, track leads/opportunities, 
 ---
 
 ## 🎁 Bonus Features Implemented
--- 🌱 Database Seeder: quickly loads sample data into MongoDB Atlas for testing.
--- 🔒 JWT Authentication: secure API endpoints.
--- 📊 Dashboard API: aggregate stats for quick insights.
--- 🎨 TailwindCSS UI: clean and responsive design.
--- 🚀 Vite-powered Frontend: fast dev server & build optimization.
+- 🌱 Database Seeder: quickly loads sample data into MongoDB Atlas for testing.
+- 🔒 JWT Authentication: secure API endpoints.
+- 📊 Dashboard API: aggregate stats for quick insights.
+- 🎨 TailwindCSS UI: clean and responsive design.
+- 🚀 Vite-powered Frontend: fast dev server & build optimization.
 
 ---
 
